@@ -1,5 +1,5 @@
-# DeepLearning_StridedNet
-Application of StridedNet for image processing 
+# image_classification_by_StridedNet
+Application of StridedNet for costum image classfication
 ## Objectives 
 Developpement of custom image processing based on Conventional Neural Network (CNN) named StridedNet
 ### Used StridedNet CNN architecture 
